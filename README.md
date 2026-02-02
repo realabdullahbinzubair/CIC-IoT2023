@@ -59,7 +59,6 @@ CIC-IoT2023/
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies
 
-
 ---
 
 ## ⚙️ Technologies Used
@@ -78,9 +77,11 @@ git clone git@github.com:realabdullahbinzubair/CIC-IoT2023.git
 cd CIC-IoT2023
 
 2. Install dependencies:
+```bash
 pip install -r requirements.txt
 
 3. Run notebooks:
+```bash
 jupyter notebook
 
 ---
