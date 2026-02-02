@@ -83,6 +83,8 @@ pip install -r requirements.txt
 3. Run notebooks:
 jupyter notebook
 
+---
+
 ## 📌 Results & Findings
 - Initial baseline models achieved approximately **85% accuracy** on the CIC-IoT2023 dataset  
 - After architectural improvements, class restructuring, and targeted balancing, all deep learning models achieved **~99% accuracy**  
